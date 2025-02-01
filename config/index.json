@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "configLocations": {
+    "valuesConfig": {
+      "name": "values.json",
+      "url": "https://raw.githubusercontent.com/MrCoolGuy640/ExfilEngine/main/config/values.json"
+    }
+  },
+  "loadOrder": [
+    "valuesConfig"
+  ]
+}
